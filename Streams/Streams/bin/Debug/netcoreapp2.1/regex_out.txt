@@ -1,0 +1,12 @@
++380000000000
++38-000-000-00-00
++380-111-111-111
+0611111111
+061-111-11-11
+128.0.0.1
+380000000000
+site.com
+site.com/index.html
+user@mail.com
+user123@mail.com
+user123user@mail.com

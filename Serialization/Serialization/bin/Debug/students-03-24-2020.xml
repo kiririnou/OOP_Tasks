@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Firstname>Firstname</Firstname>
+    <Lastname>Lastname</Lastname>
+    <Age>20</Age>
+    <StudentCard>
+      <Number>asdf123</Number>
+      <DateOfIssuance>2020-03-09</DateOfIssuance>
+    </StudentCard>
+  </Student>
+  <Student>
+    <Firstname>Ko</Firstname>
+    <Lastname>Pass</Lastname>
+    <Age>19</Age>
+    <StudentCard>
+      <Number>qwe123</Number>
+      <DateOfIssuance>2020-02-11</DateOfIssuance>
+    </StudentCard>
+  </Student>
+</Students>
